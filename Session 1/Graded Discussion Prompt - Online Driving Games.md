@@ -1,0 +1,3 @@
+### How I would apply the concepts of AI and ML in training a computer or mobile device to play Hue Jumper. 
+
+Firstly, the model must be able to see and perceive its surroundings. Machine Vision must be applied by training the model to recognize the images seen by applying filters for feature extractions. I would write code to define the actions to be taken based on the perceived surroundings condition. By doing so, the model can respond dynamically instead of being hard coded to respond. 

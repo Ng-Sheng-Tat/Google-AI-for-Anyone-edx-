@@ -1,0 +1,3 @@
+What I would do while creating the model to reduce the possibility of errors. 
+
+Fine-tuning the hyperparameters such as the number of layers and neurons in each layers, feeding more variety of data (with different angle to capture the images or different thickness and brightness), the learning rate, maybe can use feed-back propagation as well for optimization purpose, finding the most suitable ratio for testing, training and validation data set amount

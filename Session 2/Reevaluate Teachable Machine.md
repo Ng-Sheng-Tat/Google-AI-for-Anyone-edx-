@@ -1,0 +1,3 @@
+How I collected and split your data, and share your findings with everyone after using them on the Teachable Machine.
+
+I downloaded the images of tiger and lion datasets provided by Google, and I use about 100 pictures for each category as training data and validation data, and my training model parameter respectively 30 epochs, 16 batch size, and 0.01 learning rate.My model performs averagely good.
